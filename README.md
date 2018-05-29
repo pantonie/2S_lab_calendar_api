@@ -14,6 +14,7 @@ API made with [Sails v1](https://sailsjs.com) application
 
 
 ### List of fields managed by API
+
 + name (required)
 + surname (required)
 + date (required)
