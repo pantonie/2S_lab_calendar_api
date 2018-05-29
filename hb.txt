@@ -1,0 +1,35 @@
+{"date":"17.01","eventType":"birthday","surname":"Bychkov","name":"Aleksandr"}
+{"date":"18.01","eventType":"birthday","surname":"Pankratova","name":"Irina"}
+{"date":"25.01","eventType":"birthday","surname":"Klyukin","name":"Ilya"}
+{"date":"01.02","eventType":"birthday","surname":"Sauta","name":"Maria"}
+{"date":"01.03","eventType":"birthday","surname":"Papenko","name":"Victor"}
+{"date":"02.03","eventType":"birthday","surname":"Savenkova","name":"Anna"}
+{"date":"27.03","eventType":"birthday","surname":"Scherbakova ","name":"Natalia"}
+{"date":"04.04","eventType":"birthday","surname":"Zinin","name":"Dmitry"}
+{"date":"05.04","eventType":"birthday","surname":"Klyauzov","name":"Andrey"}
+{"date":"07.04","eventType":"birthday","surname":"Rusakov","name":"Andrey"}
+{"date":"10.04","eventType":"birthday","surname":"Panteleev","name":"Anton"}
+{"date":"11.04","eventType":"birthday","surname":"Aksenov","name":"Mikhail"}
+{"date":"18.04","eventType":"birthday","surname":"Potokina","name":"Margarita"}
+{"date":"25.04","eventType":"birthday","surname":"Yarmarkina","name":"Ekaterina"}
+{"date":"28.04","eventType":"birthday","surname":"Petrov","name":"Michael"}
+{"date":"28.04","eventType":"birthday","surname":"Ryabchenko","name":"Anastasia"}
+{"date":"29.04","eventType":"birthday","surname":"Murygin","name":"Mikhail"}
+{"date":"25.05","eventType":"birthday","surname":"Iamshchikova","name":"Ekaterina"}
+{"date":"03.06","eventType":"birthday","surname":"Matveeva","name":"Anna"}
+{"date":"18.06","eventType":"birthday","surname":"Kulikov","name":"Dmitry"}
+{"date":"01.07","eventType":"birthday","surname":"Kurmaev","name":"Ilya"}
+{"date":"02.07","eventType":"birthday","surname":"Petrov","name":"Roman"}
+{"date":"13.07","eventType":"birthday","surname":"Rakhimov","name":"Vladimir"}
+{"date":"23.07","eventType":"birthday","surname":"Dubensky","name":"Yaroslav"}
+{"date":"02.08","eventType":"birthday","surname":"Makhovikova","name":"Olga"}
+{"date":"12.08","eventType":"birthday","surname":"Joachim","name":"von Ekensteen"}
+{"date":"07.09","eventType":"birthday","surname":"Belonog","name":"Olga"}
+{"date":"26.09","eventType":"birthday","surname":"Kuzina","name":"Anastasia"}
+{"date":"06.10","eventType":"birthday","surname":"Sayganov","name":"Georgy"}
+{"date":"17.10","eventType":"birthday","surname":"Sauta","name":"Alexander"}
+{"date":"04.12","eventType":"birthday","surname":"Ivanov","name":"Alexander"}
+{"date":"07.12","eventType":"birthday","surname":"Suhov","name":"Vladimir"}
+{"date":"11.12","eventType":"birthday","surname":"Zhilin","name":"Anton"}
+{"date":"17.12","eventType":"birthday","surname":"Evdokimova","name":"Maria"}
+{"date":"29.12","eventType":"birthday","surname":"Antipin","name":"Igor"}
